@@ -9,7 +9,7 @@ See illustration below.
 | Team Name | Demo video link | Project repo | 
 |:--- |:--- |:--- |
 | exampleteam | https://youtu.be/dQw4w9WgXcQ | https://github.com/comp426-2022-spring/a99-exampleteam |
-
+ReactEscape | 
 ## Propose changes and create pull request
 
 Scroll to the bottom of this page in edit mode and you should see: 
